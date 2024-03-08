@@ -15,9 +15,3 @@ For further information, please see the PDF.
 - Cygwin (or WSL2)
 - GNU ARM cross-compiler
 - TeraTerm (or Putty)
-
-# Build
-```
-cd ARQentity    
-make
-```
