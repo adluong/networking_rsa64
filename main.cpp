@@ -1,3 +1,6 @@
+/*
+This file should not be run.
+*/
 #include "mbed.h"
 #include "string.h"
 
