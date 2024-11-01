@@ -1,4 +1,4 @@
-//This file is modified to provide a simple key exchange protocol
+//This file provides a simple key exchange protocol
 
 #include "mbed.h"
 #include "string.h"
