@@ -16,4 +16,4 @@ For further information, please see the PDF.
 - GNU ARM cross-compiler
 - TeraTerm (or Putty)
 
-# For more information, please contact: adluong11@korea.ac.kr
+**For more information, please contact: adluong11@korea.ac.kr**
