@@ -15,3 +15,5 @@ For further information, please see the PDF.
 - Cygwin (or WSL2)
 - GNU ARM cross-compiler
 - TeraTerm (or Putty)
+
+# For more information, please contact: adluong11@korea.ac.kr
