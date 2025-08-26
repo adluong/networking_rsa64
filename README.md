@@ -16,4 +16,8 @@ For further information, please see the PDF.
 - GNU ARM cross-compiler
 - TeraTerm (or Putty)
 
+# Expected output
+<img width="641" height="403" alt="image" src="https://github.com/user-attachments/assets/1a8aa1b6-1600-4869-8e3a-60fe5af54567" />
+
+
 **For more information, please contact: adluong11@korea.ac.kr**
